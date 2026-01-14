@@ -1,65 +1,78 @@
-Hi there, I'm Lois Ansaa Asiedu! 👋
-🚀 Junior Web Developer | Full-Stack Enthusiast | Analytical Problem Solver
-I am a First-Class Honours Economics graduate  transitioning into the world of software development. I bridge the gap between complex data analysis and functional, user-centric web applications. Currently, I am sharpening my full-stack skills through the MEST Africa Web Developer Programme.
-+3
+# Hi there, I'm Lois Ansaa Asiedu! 👋
 
-💻 Technical Stack
+🚀 **Junior Web Developer | Full-Stack Enthusiast | Analytical Problem Solver**
 
-Frontend: React, JavaScript (ES6+), HTML5, CSS3.
-+2
+I am a First-Class Honours Economics graduate transitioning into the world of software development. I bridge the gap between complex data analysis and functional, user-centric web applications. Currently, I am sharpening my full-stack skills through the **MEST Africa Web Developer Programme**.
 
+---
 
-Backend: Node.js, Express, RESTful API Development.
-+2
+## 💻 Technical Stack
 
+**Frontend**
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-Databases: MongoDB, Mongoose ORM, PostgreSQL.
-+1
+**Backend**
+- Node.js
+- Express
+- RESTful API Development
 
+**Databases**
+- MongoDB
+- Mongoose ORM
+- PostgreSQL
 
-Data Analysis: STATA, Econometric Analysis.
-+1
+**Data Analysis**
+- STATA
+- Econometric Analysis
 
+**Tools**
+- Git & GitHub
+- Postman
+- VS Code
+- Slack
+- Asana
+- Notion
 
-Tools: Git/GitHub, Postman, VS Code, Slack, Asana, Notion.
-+2
+---
 
-🛠️ Featured Project
-Library Management API
+## 🛠️ Featured Project
+
+### 📚 Library Management API
+
 A robust RESTful API designed to manage library resources, users, and borrowing history.
-+1
 
+**Tech Stack**
+- Node.js
+- Express
+- MongoDB
+- JWT
+- Multer
 
-Tech Stack: Node.js, Express, MongoDB, JWT, Multer.
+**Key Features**
+- Full CRUD operations
+- Secure user authentication using JWT
 
+**Impact**
+- Optimized database queries, reducing response time by 40%
 
-Key Features: Implemented full CRUD operations and secure user authentication via JWT.
-+1
+**Deployment**
+- Live and deployed on Render
 
+---
 
-Impact: Optimized database queries, reducing response time by 40%.
+## 📈 Beyond the Code
 
+- **Analytical Mindset:** First-Class degree in Economics and Sociology with a strong passion for data-driven decision-making.
+- **Growth Driven:** Contributed to a 40,000-client base growth at Brolly through strategic research and process optimization.
+- **Educator & Mentor:** Tutored over 150 students in Econometrics and mentored over 100 girls in career planning.
 
-Deployment: Successfully deployed and live on Render.
+---
 
-📈 Beyond the Code
+## 📫 Connect with Me
 
-Analytical Mindset: I hold a First-Class degree in Economics and Sociology. I love using data to drive decision-making.
-+2
-
-
-Growth Driven: I’ve contributed to a 40,000-client base growth during my time at Brolly through strategic research and process optimization.
-
-
-Educator & Mentor: I have tutored over 150 students in Econometrics and mentored over 100 girls in career planning.
-+1
-
-📫 Connect with Me
-
-LinkedIn: [Your LinkedIn Profile Link] 
-
-
-Portfolio: [Your Portfolio Link] 
-
-
-Email: Eloisasiedu5@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile Link]
+- **Portfolio:** [Your Portfolio Link]
+- **Email:** Eloisasiedu5@gmail.com
