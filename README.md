@@ -73,6 +73,6 @@ A robust RESTful API designed to manage library resources, users, and borrowing 
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Portfolio:** [Your Portfolio Link]
-- **Email:** Eloisasiedu5@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/lois593/
+- **Portfolio:** https://loisansaa.github.io/backend_portfolio/
+- **Email:** loisasiedu5@gmail.com
